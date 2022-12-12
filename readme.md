@@ -1,6 +1,9 @@
-# mountaincar-v0 with DQN (https://www.gymlibrary.dev/environments/classic_control/mountain_car/)
+# mountaincar-v0 with DQN
+##(https://www.gymlibrary.dev/environments/classic_control/mountain_car/)
 -------------------------------------------------------------------------------------
 Solution to the OpenAI Gym environment of the MountainCar through Deep Q-Learning
+
+<img src="https://github.com/mocha-workme/mountain_car_dqn/blob/master/video/rl-video-episode-10.gif?raw=true"/>
 
 ## description
 -------------------------------------------------------------------------------------
@@ -16,5 +19,5 @@ Solution to the OpenAI Gym environment of the MountainCar through Deep Q-Learnin
 
 ## edit value
 ------------------
-``` action : left, right
-``` reward : right action correction
+1. action : left, right
+2. reward : right action correction
